@@ -1,1 +1,2 @@
-This is my first demo in Git
+This is my first demo in Git£¬
+If this is Git demo,I want to modify it.
